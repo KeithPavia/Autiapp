@@ -1,0 +1,8 @@
+{
+  "appId": "com.autiapp.child",
+  "appName": "AutiApp Child",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
